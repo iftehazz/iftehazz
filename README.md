@@ -1,4 +1,4 @@
-
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Iftehaz</h1>
 <h3 align="center">An enthusiast in Machine Learning & Deep Learning.</h3>
 <img align="right" alt="Coding" width="400" src="http://www.clipartbest.com/cliparts/bcy/6n9/bcy6n9dxi.gif">
