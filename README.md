@@ -1,5 +1,5 @@
+<img align="center" style="margin-left:100px" alt="Coding" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif">
 
-[![MasterHead](https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif)]
 <h1 align="center">Hi 👋, I'm Iftehaz</h1>
 <h3 align="center">An enthusiast in Machine Learning & Deep Learning.</h3>
 <img align="right" alt="Coding" width="400" src="http://www.clipartbest.com/cliparts/bcy/6n9/bcy6n9dxi.gif">
