@@ -1,12 +1,9 @@
 ![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Iftehaz</h1>
-<h3 align="center">An enthusiast in Machine Learning & Deep Learning.</h3>
+<h3 align="center">An enthusiast in Deep Learning.</h3>
 <img align="right" alt="Coding" width="400" src="http://www.clipartbest.com/cliparts/bcy/6n9/bcy6n9dxi.gif">
 
-- 🔭 I’m currently working on **ML and DL web app to deploy in cloud**
-
-- 🌱 I’m currently learning **to deploy ML/DL web app in cloud**
-
+- 🔭 Working on **Deep Learning web app to deploy in cloud**
 - 💬 Ask me about **Machine Learning, Deep Learning, OpenCV**
 
 <br>
